@@ -5,6 +5,6 @@ on-arrival: workers_spd -= 5; rb_strength -= 50;
 go-to: sapd_formed if left_split = 1 and not sapd_formed
 max-visits: 1
 
-= Sahra Wagenknecht leaves the SPD
+= Sahra Wagenknecht leaves the SPD!
 
 One of our party members, Sahra Wagenknecht, has publically declared that they are leaving our party due to our policy of supporting diversity and equity for all. She has coined a term for our policies, calling them "woke". No one knew who she was, but somehow, overnight she has grown a cult-like following and has announced that she is creating a new party, the Sahra Wagenknecht Alliance.
