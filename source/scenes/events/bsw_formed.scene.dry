@@ -6,7 +6,7 @@ view-if: woke >= 2
 on-arrival: workers_spd -= 5; rb_strength -= 50;
 go-to: sapd_formed if left_split = 1 and not sapd_formed
 max-visits: 1
-face-image: img/Sahra_Wagenknecht.jpg
+face-image: img/portraits/WagenknechtSahra.jpg
 
 = Sahra Wagenknecht leaves the SPD
 
