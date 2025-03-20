@@ -86,7 +86,7 @@ The Communist RFB is no longer banned.
 
 @negotiate_concordat
 view-if: prussian_concordat_progress < 1
-on-arrival: prussian_concordat_progress += 1; z_relation += 2*(1-dissent);
+on-arrival: prussian_concordat_progress += 1; z_relation += 2*(1-dissent); woke -= 1
 
 We are making progress towards negotiating a concordat between Prussia and the Catholic church.
 
