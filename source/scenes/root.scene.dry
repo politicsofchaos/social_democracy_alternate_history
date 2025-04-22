@@ -606,11 +606,10 @@ Q.kpd_relation = 29;
 Q.z_relation = 54;
 Q.dvp_relation = 49;
 Q.budget = 0;
-Q.kpd_leader = "Marx";
 Q.president = "Schumacher";
 Q.president_party = "DNVP"
 Q.chancellor = "Marx";
-Q.chancellor_party = "KPD";
+Q.chancellor_party = "BSW";
 !}
 go-to: 1928_main
 
