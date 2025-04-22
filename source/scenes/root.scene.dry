@@ -597,15 +597,15 @@ For more information on the politics and government of the German Republic, see 
 
 @weird_timeline
 on-arrival: {!
-difficulty = -1;
-timeline = 4;
-resources =  1;
-dues = 0;
-rb_strength = 0;
-kpd_relation = 29;
-z_relation = 54;
-dvp_relation = 49;
-budget = 0;
+Q.difficulty = -1;
+Q.timeline = 4;
+Q.resources =  1;
+Q.dues = 0;
+Q.rb_strength = 0;
+Q.kpd_relation = 29;
+Q.z_relation = 54;
+Q.dvp_relation = 49;
+Q.budget = 0;
 Q.kpd_leader = "Marx";
 Q.president = "Schumacher";
 Q.president_party = "DNVP"
