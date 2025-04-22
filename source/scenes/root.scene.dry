@@ -596,7 +596,22 @@ For more information on the politics and government of the German Republic, see 
 - @1928_historical: Begin (historical mode) timeline 1
 
 @weird_timeline
-on-arrival: difficulty = -1; timeline = 4; resources =  1; dues = 0; rb_strength = 0; kpd_relation = 29; z_relation = 54; dvp_relation = 49; budget = 0;
+on-arrival: {!
+difficulty = -1;
+timeline = 4;
+resources =  1;
+dues = 0;
+rb_strength = 0;
+kpd_relation = 29;
+z_relation = 54;
+dvp_relation = 49;
+budget = 0;
+Q.kpd_leader = "Marx";
+Q.president = "Schumacher";
+Q.president_party = "DNVP"
+Q.chancellor = "Marx";
+Q.chancellor_party = "KPD";
+!}
 go-to: 1928_main
 
 @1928_easy
